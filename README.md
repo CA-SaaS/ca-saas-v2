@@ -33,7 +33,7 @@ We're solving the real pain points that 400,000+ Indian CAs face every single da
 | 🧠 **RAG System** | Indian tax law knowledge base for accurate AI replies |
 | 🎨 **Dark UI Redesign** | Professional dark theme with modern UX |
 | 📱 **Mobile App** | iOS & Android app for CAs on the go |
-| 🇮🇳 **Multi-language** | Hindi & Gujarati support |
+
 
 ---
 
